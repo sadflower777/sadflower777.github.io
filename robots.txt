@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://hellos984.github.io/sitemap.xml
